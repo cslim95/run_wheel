@@ -1,9 +1,14 @@
-# run_wheel
+# Run Wheel
 
 Visualises the furthest distance you've run from home in each 20° compass
 direction. Like fog-of-war for your running territory: a map shaded by how far
 you've reached, revealing directional asymmetry (e.g. "I run 5x further south
 along the coast than north into the city").
+
+Here's an example pulling from my Strava, from my old address in Sydney.
+
+<img width="1014" height="859" alt="image" src="https://github.com/user-attachments/assets/7b2e3e7e-567d-40cf-a698-695fa8399009" />
+
 
 ## Architecture
 
