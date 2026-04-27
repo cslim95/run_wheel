@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.env
+data/
+
+# Node / frontend
+run-reach-map/node_modules/
+run-reach-map/dist/
+run-reach-map/public/runs.json
+
+# Editors
+.vscode/
+.idea/
