@@ -9,6 +9,8 @@ Here's an example pulling from my Strava, from my old address in Sydney.
 
 <img width="1014" height="859" alt="image" src="https://github.com/user-attachments/assets/7b2e3e7e-567d-40cf-a698-695fa8399009" />
 
+As you can see, I ran a lot further North than South along the coast from that address, and also never made it into the Sydney CBD.
+
 
 ## Architecture
 
